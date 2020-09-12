@@ -9,6 +9,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
 ```bash
 
 pip3 install -r requirements.txt
+python3 server.py
 
 ```
 
